@@ -2,6 +2,10 @@
 Repository for the "Engenharia de Software I" course at Instituto Politécnico da Guarda (IPG), part of the "Licenciatura em Engenharia Informática" degree program. This repository contains exercises, resources, and materials related to the study of Software Engineering I.
 
 
+| Projects |
+| ----- |
+| [Trilhos na Estrela](project/trilhos_na_estrela) |
+
 ## Course Objectives
 1. Equip students with fundamental concepts of Software Engineering and Information Systems.
 2. Understand and apply fact-gathering techniques during the requirements definition process.
