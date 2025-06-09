@@ -4,7 +4,8 @@ Repository for the "Engenharia de Software I" course at Instituto Politécnico d
 
 | Projects |
 | ----- |
-| [Trilhos na Estrela](project/trilhos_na_estrela) |
+| [Trilhos na Estrela](resources/projects/trilhos-na-estrela) |
+| [Guarda SnowRock Summer Fest 2017](resources/projects/guarda-snowrock-summer-fest-2017) |
 
 ## Course Objectives
 1. Equip students with fundamental concepts of Software Engineering and Information Systems.
@@ -14,52 +15,30 @@ Repository for the "Engenharia de Software I" course at Instituto Politécnico d
 5. Be capable of preparing the technical documentation for a software project.
 
 ## Program Contents
-### Software Engineering
-- Definition
-- Software development paradigms
+- Software Engineering
+    - Definition
+    - Software development paradigms
+- Software Development Life Cycle
+    - Activities, tools, and output documents
+    - Conversion methods: direct, parallel, and pilot project
+- Software Modeling
+    - Definition, trends, and future perspectives
+    - Value of modeling – examples
+    - Abstraction and software complexity
+- Fact-Gathering Techniques
+- Feasibility Study
+- Gantt Charts and PERT/CPM Networks
+- Structured Analysis Study
+- Coding and its characteristics
+- Data Analysis: Entity-Relationship Model (ERD)
+    - ER Model extensions: Generalization/Specialization
+    - Complementarity between Data Analysis and Process Analysis
+    - Use of a CASE (Computer-Aided Software Engineering) tool
+- Definition of Data Structure Content
+    - Functional dependencies and normalization
+    - Rules for performing normalization
+- Object-Oriented Analysis and Design
 
-### Software Development Life Cycle
-- Activities, tools, and output documents
-- Conversion methods: direct, parallel, and pilot project
+-----
 
-### Software Modeling
-- Definition, trends, and future perspectives
-- Value of modeling – examples
-- Abstraction and software complexity
-
-### Fact-Gathering Techniques
-
-### Feasibility Study
-
-### Gantt Charts and PERT/CPM Networks
-
-### Structured Analysis Study
-
-### Coding and its characteristics
-
-### Data Analysis: Entity-Relationship Model (ERD)
-- ER Model extensions: Generalization/Specialization
-- Complementarity between Data Analysis and Process Analysis
-- Use of a CASE (Computer-Aided Software Engineering) tool
-
-### Definition of Data Structure Content
-- Functional dependencies and normalization
-- Rules for performing normalization
-
-### Object-Oriented Analysis and Design
-
-## Learning Methodologies
-- Expository lecture
-- Interactive lecture
-- Problem-solving
-- Project work
-
-## Assessment Criteria
-- **Continuous Assessment**:
-    - **Midterm Exam / Normal Period Exam:** 30% (6 points) – Minimum passing grade: 8/20.
-    - **Attendance:** 10% (2 points) – Students with only one absence in tutorials will receive full points; otherwise, they get zero points.
-    - **Project Work (Presentation & Defense):** 60% (12 points) – Conducted in pairs.
-- **Final Exam (Resit / Special Period)**:
-    - Available for students who failed or did not participate in continuous assessment.
-    - Consists of a written exam with two sections: theoretical questions and practical tasks.
-    - Weight: 100%. Minimum grade: 8/20 in each section.
+ For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
